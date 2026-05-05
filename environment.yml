@@ -1,0 +1,9 @@
+name: pankey2.0
+channels:
+  - defaults
+dependencies:
+  - python=3.14
+  - ipykernel
+  - pandas
+  - openpyxl
+  - pyproj
