@@ -1,5 +1,6 @@
 artsobs_output/
 ebird_lists/
+plots/
 artsobs_template.xlsx
 # Byte-compiled / optimized / DLL files
 __pycache__/
